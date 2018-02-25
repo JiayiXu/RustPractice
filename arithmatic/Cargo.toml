@@ -1,0 +1,6 @@
+[package]
+name = "arithmatic"
+version = "0.1.0"
+authors = ["TonyMac <mac@mac.com>"]
+
+[dependencies]
