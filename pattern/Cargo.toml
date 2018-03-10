@@ -1,0 +1,7 @@
+[package]
+name = "pattern"
+version = "0.1.0"
+authors = ["TonyMac <mac@mac.com>"]
+
+[dependencies]
+itertools = "0.7.6"
