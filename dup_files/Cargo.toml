@@ -1,0 +1,7 @@
+[package]
+name = "dup_files"
+version = "0.1.0"
+authors = ["TonyMac <mac@mac.com>"]
+
+[dependencies]
+rust-crypto = "0.2.36"
